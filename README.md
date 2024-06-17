@@ -1,10 +1,10 @@
 ![Me](planet.png)
-# $$\color{#cb1409}{Hello} \space {I'm} \space {Mahdi}$$
+# $$\color{#c14b09}{Hello} \space {I'm} \space {Mahdi}$$
 
-I'm a 23-year-old **$\color{#cb1409}{Full-Stack} \space {Application} \space {and} \space {Web} \space {Developer}$** who started learning how to code in **$\color{#cb1409}{2021}$**, my journey started with **$\color{#cb1409}{C++}$** which led me to learn one of the most famouse frameworks which is called $\color{#cb1409}{QT}$, my vision and thirst of learning didn't stop there.
-I decided to learn $\color{#cb1409}{Web} \space {Development}$ the decision that helped me to have better understanding of coding.
+I'm a 23-year-old **$\color{#c14b09}{Full-Stack} \space {Application} \space {and} \space {Web} \space {Developer}$** who started learning how to code in **$\color{#c14b09}{2021}$**, my journey started with **$\color{#c14b09}{C++}$** which led me to learn one of the most famouse frameworks which is called $\color{#c14b09}{QT}$, my vision and thirst of learning didn't stop there.
+I decided to learn $\color{#c14b09}{Web} \space {Development}$ the decision that helped me to have better understanding of coding.
 
-## $$\color{#cb1409}{My} \space {Skills}$$
+## $$\color{#c14b09}{My} \space {Skills}$$
 
 ### $\color{#ffffff}{C++} \space \color{#fff200}{|} \space \color{#ffffff}{QT} \space \color{#fff200}{|} \space \color{#ffffff}{JS} \space \color{#fff200}{|} \space \color{#ffffff}{HTML} \space \color{#fff200}{|} \space \color{#ffffff}{CSS} \space \color{#fff200}{|} \space \color{#ffffff}{MONGODB} \space \color{#fff200}{|} \space \color{#ffffff}{EXPRESS} \space \color{#fff200}{|} \space \color{#ffffff}{NODE.JS} \space \color{#fff200}{|} \space \color{#ffffff}{REACT}$
 ### $\color{#ffffff}{Adobe Premiere} \space \color{#fff200}{|} \space \color{#ffffff}{Photoshop} \space \color{#fff200}{|} \space \color{#ffffff}{Illustrator}$
