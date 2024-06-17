@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello, I'm Mahdi 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 
 <!--
 **SergeantMahdi/SergeantMahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
