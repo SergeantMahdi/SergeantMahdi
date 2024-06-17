@@ -6,8 +6,9 @@ I decided to learn $\color{#c14b09}{Web} \space {Development}$ the decision that
 
 ## $$\color{#c14b09}{My} \space {Skills}$$
 
-### $\color{#ffffff}{C++} \space \color{#fff200}{|} \space \color{#ffffff}{QT} \space \color{#fff200}{|} \space \color{#ffffff}{JS} \space \color{#fff200}{|} \space \color{#ffffff}{HTML} \space \color{#fff200}{|} \space \color{#ffffff}{CSS} \space \color{#fff200}{|} \space \color{#ffffff}{MONGODB} \space \color{#fff200}{|} \space \color{#ffffff}{EXPRESS} \space \color{#fff200}{|} \space \color{#ffffff}{NODE.JS} \space \color{#fff200}{|} \space \color{#ffffff}{REACT}$
-### $\color{#ffffff}{Adobe Premiere} \space \color{#fff200}{|} \space \color{#ffffff}{Photoshop} \space \color{#fff200}{|} \space \color{#ffffff}{Illustrator}$
+### $$\color{#ffffff}{C++} \space \color{#c14b09}{|} \space \color{#ffffff}{QT} \space \color{#c14b09}{|} \space \color{#ffffff}{JS} \space \color{#c14b09}{|} \space \color{#ffffff}{HTML} \space \color{#c14b09}{|} \space \color{#ffffff}{CSS} \space \color{#c14b09}{|} \space \color{#ffffff}{MONGODB} \space \color{#c14b09}{|} \space \color{#ffffff}{EXPRESS} \space \color{#c14b09}{|} \space \color{#ffffff}{NODE.JS} \space \color{#c14b09}{|} \space \color{#ffffff}{REACT}$$
+### $${\color{#c14b09}{Side} \space {Skills}}$$
+### $$\color{#ffffff}{Adobe} \space {Premiere} \space \color{#c14b09}{|} \space \color{#ffffff}{Photoshop} \space \color{#c14b09}{|} \space \color{#ffffff}{Illustrator}$$
 
 ```cpp
 std::cout << "If you think your life is hard, try to learn c++ on your own" << std::endl;
