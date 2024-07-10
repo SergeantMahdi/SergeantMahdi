@@ -1,14 +1,14 @@
-![Me](planet.png)
-# $$\color{#c14b09}{Hello} \space {I'm} \space {Mahdi}$$
+![Me](Header.png)
+# $$\color{#ff3742}{Hello} \space {I'm} \space {Mahdi}$$
 
-I'm a 23-year-old **$\color{#c14b09}{Full-Stack} \space {Application} \space {and} \space {Web} \space {Developer}$** who started learning how to code in **$\color{#c14b09}{2021}$**, my journey started with **$\color{#c14b09}{C++}$** which led me to learn one of the most famouse frameworks which is called $\color{#c14b09}{QT}$, my vision and thirst of learning didn't stop there.
-I decided to learn $\color{#c14b09}{Web} \space {Development}$ the decision that helped me to have better understanding of coding.
+I'm a 23-year-old **$\color{#06f5de}{Full-Stack} \space {Application} \space {and} \space {Web} \space {Developer}$** who started learning how to code in **$\color{#06f5de}{2021}$**, my journey started with **$\color{#06f5de}{C++}$** which led me to learn one of the most famouse frameworks which is called $\color{#06f5de}{QT}$, my vision and thirst of learning didn't stop there.
+I decided to learn $\color{#06f5de}{Web} \space {Development}$ the decision that helped me to have better understanding of coding.
 
-## $$\color{#c14b09}{My} \space {Skills}$$
+## $$\color{#ff3742}{My} \space {Skills}$$
 
-### $$\color{#ffffff}{C++} \space \color{#c14b09}{|} \space \color{#ffffff}{QT} \space \color{#c14b09}{|} \space \color{#ffffff}{JS} \space \color{#c14b09}{|} \space \color{#ffffff}{HTML} \space \color{#c14b09}{|} \space \color{#ffffff}{CSS} \space \color{#c14b09}{|} \space \color{#ffffff}{MONGODB} \space \color{#c14b09}{|} \space \color{#ffffff}{EXPRESS} \space \color{#c14b09}{|} \space \color{#ffffff}{NODE.JS} \space \color{#c14b09}{|} \space \color{#ffffff}{REACT}$$
-### $${\color{#c14b09}{Side} \space {Skills}}$$
-### $$\color{#ffffff}{Adobe} \space {Premiere} \space \color{#c14b09}{|} \space \color{#ffffff}{Photoshop} \space \color{#c14b09}{|} \space \color{#ffffff}{Illustrator}$$
+### $$\color{#06f5de}{C++} \space \color{#ff3742}{|} \space \color{#06f5de}{QT} \space \color{#ff3742}{|} \space \color{#06f5de}{JS} \space \color{#ff3742}{|} \space \color{#06f5de}{HTML} \space \color{#ff3742}{|} \space \color{#06f5de}{CSS} \space \color{#ff3742}{|} \space \color{#06f5de}{MONGODB} \space \color{#ff3742}{|} \space \color{#06f5de}{EXPRESS} \space \color{#ff3742}{|} \space \color{#06f5de}{NODE.JS} \space \color{#ff3742}{|} \space \color{#06f5de}{REACT}$$
+### $${\color{#ff3742}{Side} \space {Skills}}$$
+### $$\color{#06f5de}{Adobe} \space {Premiere} \space \color{#ff3742}{|} \space \color{#06f5de}{Photoshop} \space \color{#ff3742}{|} \space \color{#06f5de}{Illustrator}$$
 
 ```cpp
 std::cout << "If you think your life is hard, try to learn c++ on your own" << std::endl;
