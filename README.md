@@ -5,7 +5,7 @@ I'm a 23-year-old **$\color{#FFD600}{Full-Stack} \space {Application} \space {an
 I decided to learn $\color{#FFD600}{Web} \space {Development}$ the decision that helped me to have better understanding of coding.
 
 <h2 align="center"> $$\color{#FFD600}{My} \space {Skills}$$ </h2>
-<img src="Skills.png" alter="Skills">
+<img src="Skills.png" alter="Skills"> 
 
 <h3 align="center"> $${\color{#FFD600}{Side} \space {Skills}}$$ </h3>
 
