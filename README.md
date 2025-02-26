@@ -1,9 +1,9 @@
 ![Me](Banner.png)
 <h1 align="center"> $$\color{#FFD600} \textbf{Hello} \space \textbf{I'm} \space \textbf{Mahdi}$$ </h1>
 
-I'm a 23-year-old **$\color{#FFD600}\textbf{Full-Stack} \space \textbf{Application} \space \textbf{and} \space \textbf{Web} \space \textbf{Developer}$** who started learning how to code in **$\color{#FFD600} \textbf{2021}$**, my journey started with **$\color{#FFD600} 
- \textbf{C++}$** which led me to learn one of the most famouse frameworks which is called $\color{#FFD600}\textbf{QT}$, my vision and thirst of learning didn't stop there.
-I decided to learn $\color{#FFD600} \textbf{Web} \space \textbf{Development}$ the decision that helped me to have better understanding of coding.
+I'm a 24-year-old **$\color{#FFD600}\textbf{Full-Stack} \space \textbf{Web} \space \textbf{and} \space \textbf{C++ } \textbf{Developer}$**. As I started learning how to code in **$\color{#FFD600} \textbf{2021}$** by digging into **$\color{#FFD600} 
+ \textbf{C++}$** I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of $\color{#FFD600}\textbf{Web Development}$, since I'd already known C++ it wasn't challanging to learn syntax of $\color{#FFD600}\textbf{JS}$, $\color{#FFD600}\textbf{CSS}$ and $\color{#FFD600}\textbf{HTML}$  but took me a while to learn the concepts of it.
+Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a $\color{#FFD600} \textbf{} \space \textbf{Game Developer}$ in the future.
 
 <h2 align="center" > $$\color{#FFD600} \textbf{My} \space \textbf{Skills}$$ </h2>
 <img src="Skill1.png" alter="Skills"> 
