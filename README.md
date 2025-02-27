@@ -19,8 +19,12 @@ life.push_back("Challange");
 life.push_back("Failure");
 life.push_back("Miserableness");
 
-if(user == "Consistant"){
-life.pop_back();
+while(user.status == "Trying"){
+     if(user.attitude == "Consistant"){
+          life.pop_back();
+     }else{
+          user.isFailed = true;
+     }
 }
 ```
 ```js
