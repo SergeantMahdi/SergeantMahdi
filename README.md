@@ -13,11 +13,24 @@ Web development helped me to go deeper into programming and gave me the ambition
 <h3 align="center"> $$\color{#FFD600}\textbf{Adobe} \space \textbf{Premiere} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Photoshop} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Illustrator}$$ </h3>
 
 ```cpp
-std::cout << "If you think your life is hard, try to learn c++ on your own" << std::endl;
+std::vector<std::string> life;
+
+life.push_back("Challange");
+life.push_back("Failure");
+life.push_back("Miserableness");
+
+if(user == "Consistant"){
+life.pop_back();
+}
 ```
 ```js
-console.log("If you wanna enjoy your life in the happy world of dummies, learn a high-end programming language");
+const Ego = document.querySelector("Ego");
+
+Ego.addEventListener("Listening", () =>{
+return user = "a real loser"
+})
+
 ```
 ```html
-<h1> Am I right? </h1>
+<h1> I think the above codes said enough. </h1>
 ```
