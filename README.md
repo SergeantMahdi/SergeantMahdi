@@ -12,6 +12,8 @@ Web development helped me to go deeper into programming and gave me the ambition
 
 <h3 align="center"> $$\color{#FFD600}\textbf{Adobe} \space \textbf{Premiere} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Photoshop} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Illustrator}$$ </h3>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs,_progress=true) ![SergeantMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&theme=great-gatsby)
+
 ```cpp
 std::vector<std::string> life;
 
