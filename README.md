@@ -12,6 +12,8 @@ Web development helped me to go deeper into programming and gave me the ambition
 
 <h3 align="center"> $$\color{#FFD600}\textbf{Adobe} \space \textbf{Premiere} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Photoshop} \space \color{#FFD600} \textbf{|} \space \color{#FFD600} \textbf{Illustrator}$$ </h3>
 
+---
+
 ![SergeantMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true&rank_icon=github) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true)
 
 ```cpp
