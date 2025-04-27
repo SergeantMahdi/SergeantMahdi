@@ -6,7 +6,7 @@ I'm a 24-year-old **$\color{#FFD600}\textbf{Full-Stack} \space \textbf{Web} \spa
 Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a $\color{#FFD600} \textbf{} \space \textbf{Game Developer}$ in the future.
 
 <h2 align="center" > $$\color{#FFD600} \textbf{My} \space \textbf{Skills}$$ </h2>
-<img src="Skills.png" alter="Skills"> 
+<img src="Skills1.png" alter="Skills"> 
 
 <h3 align="center"> $${\color{#FFD600} \textbf{Side} \space \textbf{Skills}}$$ </h3>
 
