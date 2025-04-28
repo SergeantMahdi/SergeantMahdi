@@ -1,5 +1,5 @@
 ![Me](BannerMatthew.png)
-<h1 align="center"> $$\color{#FFD600} \textbf{Hello} \space \textbf{I'm} \space \textbf{Mahdi}$$ </h1>
+<h1 align="center"> $$\color{#FFD600} \textbf{Hello} \space \textbf{I'm} \space \textbf{(Matthew)} \space \textbf{Mahdi}$$ </h1>
 
 I'm a 24-year-old **$\color{#FFD600}\textbf{Full-Stack} \space \textbf{Web} \space \textbf{and} \space \textbf{C++ } \textbf{Developer}$**. As I started learning how to code in **$\color{#FFD600} \textbf{2021}$** by digging into **$\color{#FFD600} 
  \textbf{C++}$** I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of $\color{#FFD600}\textbf{Web Development}$, since I'd already known C++ it wasn't challanging to learn syntax of $\color{#FFD600}\textbf{JS}$, $\color{#FFD600}\textbf{CSS}$ and $\color{#FFD600}\textbf{HTML}$  but took me a while to learn the concepts of it.
