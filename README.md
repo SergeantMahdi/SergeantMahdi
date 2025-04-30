@@ -15,7 +15,7 @@ Web development helped me to go deeper into programming and gave me the ambition
 ---
 <div align="center">
  
-![SergeantMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true&rank_icon=github) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true)
+![SergeantMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true&rank_icon=github) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=ffd600&title_color=ffd600&hide_border=true)
 
 </div>
 
