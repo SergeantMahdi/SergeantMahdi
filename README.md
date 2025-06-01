@@ -3,7 +3,21 @@
    Hi, I'm (Matthew) Mahdi
 </h1>
 
-I'm a 24-year-old **<code>Full-Stack web and C++ developer</code>**. As I started learning how to code in 2021 by digging into **<code>C++</code>** I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of **<code>Web Development</code>**, since I'd already known C++ it wasn't challanging to learn syntax of **<code>JS</code>**, **<code>CSS</code>** and **<code>HTML</code>**  but took me a while to learn the concepts of it.
+I'm a 24-year-old **<code>Full-Stack web and C++ developer</code>**. As I started learning how to code in 2021 by digging into 
+<span>
+   <img src="https://skillicons.dev/icons?i=cpp" width=30 height=30/>
+</span>
+I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of **<code>Web Development</code>**, since I'd already known C++ it wasn't challanging to learn syntax of 
+<span>
+   <img src="https://skillicons.dev/icons?i=js" width=30 height=30/>
+   </span>
+, <span>
+   <img src="https://skillicons.dev/icons?i=css" width=30 height=30/>
+</span> and 
+<span>
+   <img src="https://skillicons.dev/icons?i=html" width=30 height=30/>
+</span>
+but took me a while to learn the concepts of it.
 Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a **<code>Game Developer</code>** in the future.
 
 <h2 align="center" >My Skills</h2>
@@ -11,7 +25,14 @@ Web development helped me to go deeper into programming and gave me the ambition
 
 <h3 align="center"> Other Skills </h3>
 
-<h3 align="center"> Adobe Premier | Photoshop | Illustrator </h3>
+<h3 align="center"> 
+<span>
+   <img src="https://skillicons.dev/icons?i=ai" width=50 height=50/>
+</span> | <span>
+   <img src="https://skillicons.dev/icons?i=ps" width=50 height=50/>
+</span> | <span>
+   <img src="https://skillicons.dev/icons?i=pr" width=50 height=50/>
+</span> </h3>
 
 ---
 <div align="center">
