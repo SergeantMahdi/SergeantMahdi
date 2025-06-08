@@ -17,7 +17,7 @@ I found my way to the world of programmers. My curiosity didn't stop there and l
 <span>
    <img src="https://skillicons.dev/icons?i=html" width=30 height=30/>
 </span>
-but took me a while to learn the concepts of it.
+but took me a while to get a deep understanding of how everthing works.
 Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a **<code>Game Developer</code>** in the future.
 
 <h2 align="center" >My Skills</h2>
