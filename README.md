@@ -43,6 +43,14 @@ Web development helped me to go deeper into programming and gave me the ambition
 
 ```cpp
 std::vector<std::string> life;
+struct user {
+    std::string status;
+    std::string attitude;
+    bool isFailed;
+
+    user()
+       :status("Trying"), attitude("Consistant"), isFailed(false) {}
+};
 
 life.push_back("Challange");
 life.push_back("Failure");
