@@ -42,27 +42,34 @@ Web development helped me to go deeper into programming and gave me the ambition
 </div>
 
 ```cpp
-std::vector<std::string> life;
-struct user {
+#include <string>
+#include <vector>
+
+
+struct User {
     std::string status;
     std::string attitude;
     bool isFailed;
 
-    user()
+    User()
        :status("Trying"), attitude("Consistant"), isFailed(false) {}
 };
 
-life.push_back("Challange");
-life.push_back("Failure");
-life.push_back("Miserableness");
+int main(){
+     std::vector<std::string> life = {"Challange", "Failure", "Miserableness" };
+     User user;
 
-while(user.status == "Trying"){
-     if(user.attitude == "Consistant"){
-          life.pop_back();
-     }else{
-          user.isFailed = true;
-          break;
-     }
+     while(user.status == "Trying"){
+         if(user.attitude == "Consistant"){
+              if(life.empty())
+                 life.pop_back();
+              else break;
+         }
+         else{
+             user.isFailed = true;
+             break;
+         }
+    }
 }
 ```
 ```js
