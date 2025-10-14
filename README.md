@@ -53,6 +53,7 @@ while(user.status == "Trying"){
           life.pop_back();
      }else{
           user.isFailed = true;
+          break;
      }
 }
 ```
