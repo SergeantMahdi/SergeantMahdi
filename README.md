@@ -1,9 +1,8 @@
-<img src="./cdn/banners/BannerMatthew2.webp">
+<img src="./cdn/banners/BannerMatthew2.webp" alt="Main banner">
 
 <h1 align="center">
       Hi, I'm (Matthew) Mahdi
 </h1>
-
 
 <p>
    I'm a 24-year-old <strong><code style="color: #FFB100">Full-Stack web and C++ developer</code></strong>. As I started learning how to code in 2021 by digging into <strong><code style="color: #FFB100">C++</code></strong>
@@ -13,32 +12,33 @@
    Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a <strong><code style="color: #FFB100">Game Developer</code></strong> in the future.
 </p>
 
+<!-- Skills -->
 
    <h2 align="center" >My Skills</h2>
-   <img src="./cdn/banners/skillsBanner.webp" alter="Skills"> 
+   <img src="./cdn/banners/skillsBanner.webp" alt="Skills banner"> 
 
    <table align="center">
       <tr>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/cpp.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/cpp.svg" alt="C++">
             <p align="center">
                C++
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/javascript.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/javascript.svg" alt="JavaScript">
             <p>
                JavaScript
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/html5.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/html5.svg" alt="HTML">
             <p align="center">
                HTML
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/css.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/css.svg" alt="CSS">
             <p align="center">
                CSS
             </p>
@@ -46,25 +46,25 @@
       </tr>
       <tr>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/expressjs.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/expressjs.svg" alt="Express.js">
             <p align="center">
                Express.js
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/nodejs.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/nodejs.svg" alt="Node.js">
             <p align="center">
                Node.js
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/mongodb.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/mongodb.svg" alt="MongoDB">
             <p align="center">
                MongoDB
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/nextjs.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/nextjs.svg" alt="Next.js">
             <p align="center">
                Next.js
             </p>
@@ -72,25 +72,25 @@
       </tr>
       <tr>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/react.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/react.svg" alt="React.js">
             <p align="center">
                React.js
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/threejs.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/threejs.svg" alt="Three.js">
             <p align="center">
                Three.js
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/tailwindcss.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/tailwindcss.svg" alt="Tailwind">
             <p align="center">
                Tailwind
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/vitejs.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/vitejs.svg" alt="Vite">
             <p align="center">
                Vite
             </p>
@@ -98,19 +98,19 @@
       </tr>
       <tr>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/figma.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/figma.svg" alt="Figma">
             <p align="center">
                Figma
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/git.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/git.svg" alt="Git">
             <p align="center">
                Git
             </p>
          </td>
          <td align="center">
-            <img width=80 height=80 src="./cdn/svgs/skills/github.svg">
+            <img width=80 height=80 src="./cdn/svgs/skills/github.svg" alt="GitHub">
             <p align="center">
                GitHub
             </p>
@@ -118,13 +118,18 @@
       </tr>
    </table>
 
-
+<!-- GitHub Stats -->
 ---
 <div align="center">
- 
-![SergeantMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=FFB100&text_color=FFB100&title_color=FFB100&hide_border=true&rank_icon=github) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true)
-
+   <span>
+      <img src="https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=FFB100&text_color=FFB100&title_color=FFB100&hide_border=true&rank_icon=github" alt="SergeantMahdi's GitHub stats">
+   </span>
+   <span>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true" alt="Top Languages">
+   </span>
 </div>
+
+ <img  src="https://komarev.com/ghpvc/?username=SergeantMahdi&color=ffa100&style=for-the-badge" alt="Top Languages">
 
 ```cpp
 #include <string>
@@ -157,6 +162,7 @@ int main(){
     }
 }
 ```
+
 ```js
 const Ego = document.querySelector("Ego");
 
@@ -165,6 +171,7 @@ return user = "a real loser"
 })
 
 ```
+
 ```html
 <h1> I think the above codes said enough. </h1>
 ```
