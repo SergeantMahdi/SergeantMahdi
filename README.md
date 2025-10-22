@@ -144,7 +144,7 @@ struct User {
     bool isFailed;
 
     User()
-       :status("Trying"), attitude("Consistent"), isFailed(false) {}
+       :status("Trying"), attitude("Persistent"), isFailed(false) {}
 };
 
 int main(){
@@ -152,7 +152,7 @@ int main(){
      User user;
 
      while(user.status == "Trying"){
-         if(user.attitude == "Consistent"){
+         if(user.attitude == "Persistent"){
               if(life.empty())
                  life.pop_back();
               else break;
