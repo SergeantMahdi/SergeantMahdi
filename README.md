@@ -120,16 +120,16 @@
 
 <!-- GitHub Stats -->
 ---
-<div align="center">
    <span>
       <img src="https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=FFB100&text_color=FFB100&title_color=FFB100&hide_border=true&rank_icon=github" alt="SergeantMahdi's GitHub stats">
    </span>
    <span>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true" alt="Top Languages">
    </span>
-</div>
 
- <img  src="https://komarev.com/ghpvc/?username=SergeantMahdi&color=ffa100&style=for-the-badge" alt="Top Languages">
+<p align="center">
+   <img  src="https://komarev.com/ghpvc/?username=SergeantMahdi&color=ffa100&style=for-the-badge" alt="Top Languages">
+</p>
 
 ```cpp
 #include <string>
