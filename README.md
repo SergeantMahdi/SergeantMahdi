@@ -5,11 +5,11 @@
 </h1>
 
 <p>
-   I'm a 24-year-old <strong><code style="color: #FFB100">Full-Stack web and C++ developer</code></strong>. As I started learning how to code in 2021 by digging into <strong><code style="color: #FFB100">C++</code></strong>
-   I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of <strong><code style="color: #FFB100">Web Development</code></strong>, since I'd already known C++ it wasn't challenging to learn syntax of <strong><code style="color: #FFB100">JS</code></strong>
-   , <strong><code style="color: #FFB100">CSS</code></strong> and <strong><code style="color: #FFB100">HTML</code></strong>
+   I'm a 24-year-old <strong><code>Full-Stack web and C++ developer</code></strong>. As I started learning how to code in 2021 by digging into <strong><code>C++</code></strong>
+   I found my way to the world of programmers. My curiosity didn't stop there and led me to the path of <strong><code>Web Development</code></strong>, since I'd already known C++ it wasn't challenging to learn syntax of <strong><code>JS</code></strong>
+   , <strong><code>CSS</code></strong> and <strong><code>HTML</code></strong>
    but took me a while to get a deep understanding of how everything works.
-   Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a <strong><code style="color: #FFB100">Game Developer</code></strong> in the future.
+   Web development helped me to go deeper into programming and gave me the ambition of following my childhood dream, becoming a <strong><code>Game Developer</code></strong> in the future.
 </p>
 
 <!-- Skills -->
@@ -125,7 +125,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=FFB100&text_color=FFB100&title_color=FFB100&hide_border=true&rank_icon=github" alt="SergeantMahdi's GitHub stats">
    </span>
    <span>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&hide=ejs&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true" alt="Top Languages">
    </span>
 </p>
 
@@ -163,17 +163,4 @@ int main(){
          }
     }
 }
-```
-
-```js
-const Ego = document.querySelector("Ego");
-
-Ego.addEventListener("Listening", () =>{
-return user = "a real loser"
-})
-
-```
-
-```html
-<h1> I think the above codes said enough. </h1>
 ```
