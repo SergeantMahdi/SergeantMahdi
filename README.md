@@ -118,16 +118,29 @@
       </tr>
    </table>
 
-<!-- GitHub Stats -->
----
-<p align="center">
-   <span>
-      <img src="https://github-readme-stats.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=00000000&icon_color=FFB100&text_color=FFB100&title_color=FFB100&hide_border=true&rank_icon=github" alt="SergeantMahdi's GitHub stats">
-   </span>
-   <span>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMahdi&_progress=true&hide_progress=true&bg_color=00000000&icon_color=ffd600&text_color=FFB100&title_color=FFB100&hide_border=true" alt="Top Languages">
-   </span>
-</p>
+
+<h2 align="center">
+      Social Media
+</h2>
+
+<table align="center">
+   <tr >
+      <td align="center">
+         <a href="https://www.linkedin.com/in/mahdi-sartipzadeh/">
+            <img width=80 height=80 src="./cdn/svgs/socialMedia/linkedin.svg">
+            <p>Linkedin</p>
+         </a>
+      </td>
+      <td align="center">
+         <img width=80 height=80 src="./cdn/svgs/socialMedia/instagram.svg">
+         <p>Instagram</p>
+      </td>
+      <td align="center">
+         <img width=80 height=80 src="./cdn/svgs/socialMedia/youtube.svg">
+         <p>Youtube</p>
+      </td>
+   </tr>
+</table>
 
 <p align="center">
    <img  src="https://komarev.com/ghpvc/?username=SergeantMahdi&color=ffa100&style=for-the-badge" alt="Top Languages">
