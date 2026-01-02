@@ -143,8 +143,10 @@
 </table>
 
 <p align="center">
-   <img  src="https://komarev.com/ghpvc/?username=SergeantMahdi&color=ffa100&style=for-the-badge" alt="Top Languages">
-</p>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=SergeantMahdi&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=ffa100&background=00000000&stroke=ffa100&currStreakLabel=ffa100" alt="GitHub Streak" />
+</a>
+<p>
 
 ```cpp
 #include <string>
