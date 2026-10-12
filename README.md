@@ -4,15 +4,11 @@
    Hi, I'm (Matthew) Mahdi
 </h1>
 
----
-
 I'm a `full-stack` and `C++` developer with a decent amount of experience in the industry. Creating open-source apps is one of my favorite hobbies and I'm open to collaborate with everyone in the same field.
 
 <h2 align="center">
    My Skill Set
 </h2>
-
----
 
 <img src="./images/banners/pattern.jpg" />
 
@@ -58,8 +54,6 @@ I'm a `full-stack` and `C++` developer with a decent amount of experience in the
  <img src="https://skillicons.dev/icons?i=figma,notion,ubuntu,github,git,photoshop,illustrator" height="45" />
 
 <h2 align= "center">Social Media</h2>
-
----
 
 <table align="center">
    <tr>
