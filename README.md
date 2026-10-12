@@ -1,4 +1,4 @@
-<img src="./images/banners/universe.webp" />
+<img src="./images/banners/universe.jpg" />
 
 <h1 align="center">
    Hi, I'm (Matthew) Mahdi
