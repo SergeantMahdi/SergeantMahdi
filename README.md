@@ -60,7 +60,7 @@ I'm a `full-stack` and `C++` developer with a decent amount of experience in the
       <td align="center">
          <a href="https://www.linkedin.com/in/mahdi-sartipzadeh/" >
             <img width="40" src="./images/svgs/socialMedia/linkedin.svg" alt="Linkedin"/>
-            <p> linkedin </p>
+            <p> Linkedin </p>
          </a>
       </td>
         <td align="center">
