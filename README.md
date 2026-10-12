@@ -12,7 +12,7 @@ I'm a `full-stack` and `C++` developer with a decent amount of experience in the
 
 <img src="./images/banners/pattern.jpg" />
 
-<table align="center">
+<table>
    <tr>
       <th>Desktop</th>
       <td>C++</td>
