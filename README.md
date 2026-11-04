@@ -15,7 +15,7 @@ I'm a `full-stack web` and `Desktop application` developer with a decent amount 
 
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <picture>
-    <source
+    <source align="center"
       srcset="https://github-stats-extended.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=0b1a16&title_color=63e6c9&icon_color=63e6c9&text_color=fff"
       media="(prefers-color-scheme: dark)"
     />
@@ -24,7 +24,7 @@ I'm a `full-stack web` and `Desktop application` developer with a decent amount 
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
   <picture>
-    <source
+    <source align="center"
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=SergeantMahdi&layout=compact&langs_count=8&card_width=320_github&bg_color=0b1a16&text_color=fff&title_color=63e6c9&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
