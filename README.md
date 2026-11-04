@@ -13,13 +13,13 @@ I'm a `full-stack web` and `Desktop application` developer with a decent amount 
 
 ---
 
-<span align="center">
+<a align="center">
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=SergeantMahdi&show_icons=true&bg_color=0b1a16&title_color=63e6c9&icon_color=63e6c9&text_color=fff"/>
-</span>
+</a>
 
-<span align="center">
+<a align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SergeantMahdi&layout=compact&langs_count=8&card_width=320_github&bg_color=0b1a16&text_color=fff&title_color=63e6c9&layout=compact"/>
-</span>
+</a>
 
 ---
 
