@@ -18,7 +18,7 @@ I'm a `full-stack web` and `Desktop application` developer with a decent amount 
 </p>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=SergeantMahdi&layout=compact&langs_count=8&card_width=320_github&bg_color=0b1a16&text_color=fff&title_color=63e6c9"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=SergeantMahdi&layout=compact&langs_count=8&card_width=320_github&bg_color=0b1a16&text_color=fff&title_color=63e6c9&hide_progress=true"/>
 </p>
 
 ---
